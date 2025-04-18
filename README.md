@@ -22,10 +22,9 @@ turtle.wav | Turtle mode
 
 ### Installation
 **Files to replace:** 
-\SOUNDS\en\SYSTEM\hello.wav 
 
-\SOUNDS\en\SYSTEM\telemko.wav 
-
-\SOUNDS\en\SYSTEM\telemok.wav 
+-`\SOUNDS\en\SYSTEM\hello.wav` 
+-`\SOUNDS\en\SYSTEM\telemko.wav` 
+-`\SOUNDS\en\SYSTEM\telemok.wav` 
 
 Then copy all other files to the SD card under `\SOUNDS\en`
