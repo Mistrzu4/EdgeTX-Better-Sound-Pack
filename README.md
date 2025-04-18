@@ -1,7 +1,7 @@
 Tired of your radio sounding smarter than you?
 Fix that with EdgeTX better sound pack.
 
-https://www.youtube.com/watch?v=LI3oWlrp34Q
+[![YouTube](https://img.youtube.com/vi/LI3oWlrp34Q/0.jpg)](https://www.youtube.com/watch?v=LI3oWlrp34Q)
 
 ### Features
 - Low quality sounds
